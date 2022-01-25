@@ -1,0 +1,14 @@
+{
+  "name": "service_invoke",
+  "version": "1.0.0",
+  "description": "第一个Dapr服务调用程序",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
